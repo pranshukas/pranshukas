@@ -4,11 +4,12 @@
 
 ![Profile views](https://gpvc.arturio.dev/pranshukas)  
 
-<p align="center" style="font-family:Papyrus"> I am currently a Pre-Final Student at IIT (BHU) Varanasi. I'm Enthusiastic, Self-Learner, and a techno Geek. I am a passionate programmer with great interest in Software Developement and love Competitive Programming and Problem Solving. I possess Good Foundation in Data Structures and Algorithms.
+<p align="center" style="font-family:Papyrus"> I am currently a Pre-Final Student at IIT (BHU) Varanasi. I'm Enthusiastic, Self-Learner, and a techno Geek. I am a passionate programmer with great interest in Software Developement, contributing to Open Source, besides I  love Competitive Programming and Problem Solving. I possess Good Foundation in Data Structures and Algorithms.
 I have experience in developing Web Applications and love to explore various technologies.
 
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
+- 💻 Currently Contributing to **[Girlscript Winter of Code](https://github.com/girlscript/winter-of-contributing) (GWOC)**
 - ⚡ Fun fact: ....
   
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshukas&show_icons=true&locale=en" alt="pranshukas" /></p>
