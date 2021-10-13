@@ -5,7 +5,7 @@
 ![Profile views](https://gpvc.arturio.dev/pranshukas)  
 
 <p align="center" style="font-family:Papyrus"> I am currently a Pre-Final Student at IIT (BHU) Varanasi. I'm Enthusiastic, Self-Learner, and a techno Geek. I am a passionate programmer with great interest in Software Developement and love Competitive Programming and Problem Solving. I possess Good Foundation in Data Structures and Algorithms.
-I have experience in developing Web Applications. I love to explore various technologies and utilize to solve problems. 
+I have experience in developing Web Applications and love to explore various technologies.
 
 - 🌱 I’m currently learning **React**
 - 👯 I’m looking to collaborate on **Full Stack Projects**
