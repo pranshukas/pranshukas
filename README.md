@@ -12,7 +12,7 @@ I have experience in developing Web Applications and love to explore various tec
 - 💻 Currently Contributing to **[Girlscript Winter of Code](https://github.com/girlscript/winter-of-contributing) (GWOC)**
 - ⚡ Fun fact: ....
   
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshukas&show_icons=true&locale=en" alt="pranshukas" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranshukas&show_icons=true&count_private=true&locale=en" alt="pranshukas" /></p>
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
