@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Pranshu Kashyap</h1>
 
-![Profile views](https://gpvc.arturio.dev/pranshukas)  
+<!-- ![Profile views](https://gpvc.arturio.dev/pranshukas)   -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranshukas&label=Profile%20views&color=0e75b6&style=flat" alt="pranshukas" /> </p>
 
 <p align="center" style="font-family:Papyrus"> I am currently a Pre-Final Student at IIT (BHU) Varanasi. I'm Enthusiastic, Self-Learner, and a techno Geek. I am a passionate programmer with great interest in Software Developement, contributing to Open Source, besides I  love Competitive Programming and Problem Solving. I possess Good Foundation in Data Structures and Algorithms.
 I have experience in developing Web Applications and love to explore various technologies.
