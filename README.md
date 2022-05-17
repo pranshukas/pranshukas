@@ -22,8 +22,8 @@ I have experience in developing Web Applications and love to explore various tec
 <a href="mailto:pranshu.kashyap.mec19@iitbhu.ac.in"> <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="35px" width="40px" alt="email"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/pranshukas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranshukas" height="35" width="40" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/pranshu.kas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranshu.kas" height="35" width="40" /></a>&nbsp;&nbsp;
-<a href="https://www.codechef.com/users/pranshukas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranshukas" height="35" width="40" /></a>&nbsp;&nbsp;
-<a href="https://codeforces.com/profile/pranshukas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pranshukas" height="35" width="40" /></a>&nbsp;&nbsp;
+<!-- <a href="https://www.codechef.com/users/pranshukas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pranshukas" height="35" width="40" /></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/pranshukas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="pranshukas" height="35" width="40" /></a>&nbsp;&nbsp; -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
